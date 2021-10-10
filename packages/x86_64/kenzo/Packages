@@ -1,0 +1,214 @@
+Package: lua-maxminddb
+Version: 0.2-1
+Depends: libc, lua, libmaxminddb
+License: MIT
+Section: lang
+Architecture: x86_64
+Installed-Size: 2486
+Filename: lua-maxminddb_0.2-1_x86_64.ipk
+Size: 3204
+SHA256sum: a511bdde90082e1d63379960d30b0ad61fa77433e3459e45dfc70eb650d35940
+Description:  libmaxminddb bindings for lua
+
+Package: luci-app-adguardhome
+Version: 15
+Depends: libc, wget-ssl
+Section: luci
+Architecture: all
+Installed-Size: 90843
+Filename: luci-app-adguardhome_15_all.ipk
+Size: 91980
+SHA256sum: 39ad9cf2ec1ad9bac4413bf98908efb2b4de3c697a98d6582165ff917e42edc5
+Description:  LuCI support for adguardhome
+
+Package: luci-app-advanced
+Version: 1.9-1
+Depends: libc
+Section: luci
+Architecture: all
+Installed-Size: 11087
+Filename: luci-app-advanced_1.9-1_all.ipk
+Size: 11923
+SHA256sum: 37484b3f0ed0a06eff450efd1fcaa8bf0a9bba3e769171d5271c9a790791d4fc
+Description:  LuCI Support for advanced and filebrowser
+
+Package: luci-app-clash
+Version: v1.8.0
+Depends: libc, luci-base, wget, iptables, coreutils-base64, coreutils, coreutils-nohup, bash, ipset, libustream-openssl20201210, curl, jsonfilter, ca-certificates, iptables-mod-tproxy, kmod-tun
+Section: luci
+Architecture: all
+Installed-Size: 3003316
+Filename: luci-app-clash_v1.8.0_all.ipk
+Size: 2827777
+SHA256sum: 4eb1ac3b22ed0cae5c8ae2437459b42c6358c93e7d8d6c2564eda12b0d6f276c
+Description:  Luci Interface for clash.
+
+Package: luci-app-openclash
+Version: 0.43.06-beta
+Depends: libc, iptables, dnsmasq-full, coreutils, coreutils-nohup, bash, curl, ca-bundle, ipset, ip-full, iptables-mod-tproxy, iptables-mod-extra, libcap, ruby, ruby-yaml
+Section: opt
+Architecture: all
+Installed-Size: 2157425
+Filename: luci-app-openclash_0.43.06-beta_all.ipk
+Size: 2152461
+SHA256sum: 04801dc26b24e9d8686a589ef6cf1d9f5e89cf72b5c0f31b141c135afb0ed278
+Description:  A LuCI support for clash
+
+Package: luci-app-passwall
+Version: 4.36-1
+Depends: libc, coreutils, coreutils-base64, coreutils-nohup, curl, dnsmasq-full, dns2socks, ipset, ip-full, ipt2socks, iptables-mod-tproxy, libuci-lua, lua, luci-lib-jsonc, microsocks, tcping, resolveip, unzip, brook, chinadns-ng, haproxy, hysteria, kcptun-client, naiveproxy, pdnsd-alt, shadowsocks-libev-ss-local, shadowsocks-libev-ss-redir, shadowsocks-libev-ss-server, shadowsocks-rust-sslocal, shadowsocksr-libev-ssr-local, shadowsocksr-libev-ssr-redir, shadowsocksr-libev-ssr-server, simple-obfs, trojan-go, trojan-plus, v2ray-core, v2ray-plugin, xray-core
+Section: luci
+Architecture: all
+Installed-Size: 836439
+Filename: luci-app-passwall_4.36-1_all.ipk
+Size: 837139
+SHA256sum: 18a235d7b339b77a9f2252f13286c3ff8f4de7fc742393c4f4bbe01bc9a1aa73
+Description:  LuCI support for PassWall
+
+Package: luci-app-serverchan
+Version: 1.90-9
+Depends: libc, iputils-arping, curl
+Section: luci
+Architecture: all
+Installed-Size: 22303
+Filename: luci-app-serverchan_1.90-9_all.ipk
+Size: 23083
+SHA256sum: d9ddae187b123f68d168064c34694ab64afe34fad0dc895ea03a1bff1825f45f
+Description:  LuCI support for serverchan
+
+Package: luci-app-smartdns
+Version: 1-3
+Depends: libc, smartdns
+Section: luci
+Architecture: all
+Installed-Size: 5387
+Filename: luci-app-smartdns_1-3_all.ipk
+Size: 6142
+SHA256sum: 1987a36d423477b2e9b8c523a379a340b754bf55a35298d194be74c3ee1dc5cd
+Description:  Luci for smartdns server
+
+Package: luci-app-ssr-plus
+Version: 184-9
+Depends: libc, coreutils, coreutils-base64, dns2socks, dnsmasq-full, ipset, ip-full, iptables-mod-tproxy, lua, libuci-lua, microsocks, pdnsd-alt, tcping, resolveip, shadowsocksr-libev-ssr-check, uclient-fetch, kcptun-client, naiveproxy, redsocks2, shadowsocks-libev-ss-local, shadowsocks-libev-ss-redir, shadowsocks-libev-ss-server, shadowsocks-rust-sslocal, shadowsocks-rust-ssserver, shadowsocksr-libev-ssr-local, shadowsocksr-libev-ssr-redir, shadowsocksr-libev-ssr-server, simple-obfs, trojan, ipt2socks, v2ray-plugin, curl, xray-core
+Section: luci
+Architecture: all
+Installed-Size: 194177
+Filename: luci-app-ssr-plus_184-9_all.ipk
+Size: 194357
+SHA256sum: 8b29e44ecbe1ef719a35ddca87f016a0f83b20dd140f027318961510c83da161
+Description:  SS/SSR/V2Ray/Trojan/NaiveProxy/Socks5/Tun LuCI interface
+
+Package: luci-app-vssr
+Version: 1.22-2-20210904
+Depends: libc, ipset, ip-full, iptables-mod-tproxy, dnsmasq-full, coreutils, coreutils-base64, bash, pdnsd-alt, wget-ssl, lua, luasocket, lua-maxminddb, shadowsocks-libev-ss-local, shadowsocks-libev-ss-redir, shadowsocksr-libev-ssr-local, shadowsocksr-libev-ssr-redir, shadowsocksr-libev-ssr-check, simple-obfs, xray-core, trojan, ipt2socks, kcptun-client, xray-plugin, shadowsocksr-libev-ssr-server
+Section: luci
+Architecture: all
+Installed-Size: 3179813
+Filename: luci-app-vssr_1.22-2-20210904_all.ipk
+Size: 3008073
+SHA256sum: 6f0973aa5226bad4127c6988b1a7b3389ac2b1132260200e18b8716d438c80b7
+Description:  A New SS/SSR/Xray/Trojan LuCI interface
+
+Package: luci-i18n-passwall-zh-cn
+Version: 4.36-1
+Depends: libc, luci-app-passwall
+Section: luci
+Architecture: all
+Installed-Size: 12055
+Filename: luci-i18n-passwall-zh-cn_4.36-1_all.ipk
+Size: 12889
+SHA256sum: 6007123b28e581753aae017fb4190e1b8851a8acac0283a2b99bd6163da65a07
+Description:  Translation for luci-app-passwall - 简体中文 (Simplified Chinese)
+
+Package: luci-i18n-smartdns-zh-cn
+Version: 1-3
+Depends: libc, luci-app-smartdns
+Section: luci
+Architecture: all
+Installed-Size: 3193
+Filename: luci-i18n-smartdns-zh-cn_1-3_all.ipk
+Size: 3999
+SHA256sum: b7524e5d63f96d7d67135551360bdde7e4650d41cfec1c79d67381f446104e97
+Description:  Translation for luci-app-smartdns - 简体中文 (Simplified Chinese)
+
+Package: luci-i18n-ssr-plus-zh-cn
+Version: 184-9
+Depends: libc, luci-app-ssr-plus
+Section: luci
+Architecture: all
+Installed-Size: 6551
+Filename: luci-i18n-ssr-plus-zh-cn_184-9_all.ipk
+Size: 7418
+SHA256sum: 68646ed760734d1d3b43b3e6515c0f734842763d81bec37c6b32dbaf5adef265
+Description:  Translation for luci-app-ssr-plus - 简体中文 (Simplified Chinese)
+
+Package: luci-i18n-vssr-zh-cn
+Version: 1.22-2-20210904
+Depends: libc, luci-app-vssr
+Section: luci
+Architecture: all
+Installed-Size: 5966
+Filename: luci-i18n-vssr-zh-cn_1.22-2-20210904_all.ipk
+Size: 6781
+SHA256sum: e9c49bcc8b9b67c314db22e7a1b584349890ecf997cf768d1b8e872dc3e1efd7
+Description:  Translation for luci-app-vssr - 简体中文 (Simplified Chinese)
+
+Package: luci-theme-atmaterial
+Version: 1.2-02-20200209
+Depends: libc
+Section: luci
+Architecture: all
+Installed-Size: 616657
+Filename: luci-theme-atmaterial_1.2-02-20200209_all.ipk
+Size: 617301
+SHA256sum: d33381a874e22314a0b9ae040a946d9abf2e82a245a4eb5c496792d55b0f69b3
+Description:  Atmaterial new by kenzo
+
+Package: luci-theme-edge
+Version: 2.4-20201128
+Depends: libc
+Section: luci
+Architecture: all
+Installed-Size: 198016
+Filename: luci-theme-edge_2.4-20201128_all.ipk
+Size: 199062
+SHA256sum: e1b2a7977173bae60fa29dd8876a1b1f6b65d1726bc1a0bfe6e4155e6e54e325
+Description:  Edge_new kenzo
+
+Package: luci-theme-ifit
+Version: 1.5.20210222-1
+Depends: libc
+Section: luci
+Architecture: all
+Installed-Size: 2119999
+Filename: luci-theme-ifit_1.5.20210222-1_all.ipk
+Size: 2120902
+SHA256sum: 8e10c4c54a9db3a6e4080db0cde149ff44f0864ebecae1e6d7744bf3cae78618
+Description:  Infit by kenzo
+
+Package: naiveproxy
+Version: 94.0.4606.61-1-2
+Depends: libc, libatomic1
+License: BSD 3-Clause
+Section: net
+Architecture: x86_64
+Installed-Size: 2454204
+Filename: naiveproxy_94.0.4606.61-1-2_x86_64.ipk
+Size: 2451715
+SHA256sum: 9d377ca08dae96acedd11426c66c0ac0ba145f6a9ea41f9f540308d95acdff7f
+Description:  NaïveProxy uses Chrome's network stack to camouflage traffic with strong
+ censorship resistance and low detectability. Reusing Chrome's stack also
+ ensures best practices in performance and security.
+
+Package: tcping
+Version: 0.3-1
+Depends: libc
+License: GPL-2.0-only
+Section: net
+Architecture: x86_64
+Installed-Size: 3566
+Filename: tcping_0.3-1_x86_64.ipk
+Size: 4282
+SHA256sum: b8b12de96351eef39fd1ba7512d8f96063df28744e0b99233720aac9f9bd278d
+Description:  tcping measures the latency of a tcp-connection
+

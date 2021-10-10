@@ -1,0 +1,266 @@
+Package: brook
+Version: 20210701-1
+Depends: libc, ca-bundle
+Source: feeds/small/brook
+SourceName: brook
+License: GPL-3.0
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1633152496
+Maintainer: CN_SZTL <cnsztl@immortalwrt.org>
+Architecture: x86_64
+Installed-Size: 2904259
+Filename: brook_20210701-1_x86_64.ipk
+Size: 2905668
+SHA256sum: 5a621058c545e7d0f10ae89c540483d6af22c5a949ae3151d84958fd28ece950
+Description:  Brook is a cross-platform strong encryption and not detectable proxy.
+ Zero-Configuration.
+
+Package: chinadns-ng
+Version: 1.0-beta.25-1
+Depends: libc, ipset
+Source: feeds/small/chinadns-ng
+SourceName: chinadns-ng
+License: AGPL-3.0-only
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1628756667
+Maintainer: pexcn <i@pexcn.me>
+Architecture: x86_64
+Installed-Size: 18498
+Filename: chinadns-ng_1.0-beta.25-1_x86_64.ipk
+Size: 19274
+SHA256sum: 5dee255534bd040e96335cb27ae8db470bc673ce8e7a3d5f38e5c72595d04690
+Description:  ChinaDNS next generation, refactoring with epoll and ipset.
+
+Package: hysteria
+Version: 0.8.5-1
+Depends: libc
+Source: feeds/small/hysteria
+SourceName: hysteria
+Section: net
+SourceDateEpoch: 1633152590
+Architecture: x86_64
+Installed-Size: 3773859
+Filename: hysteria_0.8.5-1_x86_64.ipk
+Size: 3775317
+SHA256sum: f700e24baeafd5e6cfc783dad58aaec748dc1a00d78a89de9b8f6f62ba0b7dcb
+Description:  Hysteria is a feature-packed network utility optimized for networks of poor quality (e.g. satellite connections, congested public Wi-Fi, connecting from China to servers abroad)
+
+Package: shadowsocks-rust-sslocal
+Version: 1.11.2-1
+Depends: libc
+Source: feeds/small/shadowsocks-rust
+SourceName: shadowsocks-rust-sslocal
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1628756667
+Maintainer: Tianling Shen <cnsztl@immortalwrt.org>
+Architecture: x86_64
+Installed-Size: 2556949
+Filename: shadowsocks-rust-sslocal_1.11.2-1_x86_64.ipk
+Size: 2547692
+SHA256sum: 0ee0022b045c5d0b93c1df3166decb739d0f21971c13adc18c04b892162554fe
+Description:  shadowsocks-rust sslocal
+
+Package: shadowsocks-rust-ssserver
+Version: 1.11.2-1
+Depends: libc
+Source: feeds/small/shadowsocks-rust
+SourceName: shadowsocks-rust-ssserver
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1628756667
+Maintainer: Tianling Shen <cnsztl@immortalwrt.org>
+Architecture: x86_64
+Installed-Size: 1825200
+Filename: shadowsocks-rust-ssserver_1.11.2-1_x86_64.ipk
+Size: 1819321
+SHA256sum: 0638e977fcb2a833f1d27800d6c60b39e76337eec0c3b7a433cfc311fe74c5b5
+Description:  shadowsocks-rust ssserver
+
+Package: shadowsocksr-libev-ssr-check
+Version: 2.5.6-9
+Depends: libc, libev, libsodium, libopenssl1.1, libpthread, libpcre, libudns, zlib
+Source: feeds/small/shadowsocksr-libev
+SourceName: shadowsocksr-libev-ssr-check
+License: GPL-3.0
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1628756667
+Architecture: x86_64
+Installed-Size: 2352
+Filename: shadowsocksr-libev-ssr-check_2.5.6-9_x86_64.ipk
+Size: 3098
+SHA256sum: 9a0cf911344f7d5f2b6f4c0e22015839774c92672f1eb6474d74e9155ff9a522
+Description:  shadowsocksr-libev ssr-check
+
+Package: shadowsocksr-libev-ssr-local
+Version: 2.5.6-9
+Depends: libc, libev, libsodium, libopenssl1.1, libpthread, libpcre, libudns, zlib
+Source: feeds/small/shadowsocksr-libev
+SourceName: shadowsocksr-libev-ssr-local
+License: GPL-3.0
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1628756667
+Architecture: x86_64
+Installed-Size: 61681
+Filename: shadowsocksr-libev-ssr-local_2.5.6-9_x86_64.ipk
+Size: 62564
+SHA256sum: 47ce03893a5d48abf7d09abaac5dc1daac0b15d7de321e22c94b0b687a6e1487
+Description:  shadowsocksr-libev ssr-local
+
+Package: shadowsocksr-libev-ssr-redir
+Version: 2.5.6-9
+Depends: libc, libev, libsodium, libopenssl1.1, libpthread, libpcre, libudns, zlib
+Source: feeds/small/shadowsocksr-libev
+SourceName: shadowsocksr-libev-ssr-redir
+License: GPL-3.0
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1628756667
+Architecture: x86_64
+Installed-Size: 55619
+Filename: shadowsocksr-libev-ssr-redir_2.5.6-9_x86_64.ipk
+Size: 56438
+SHA256sum: 3bf6a805a86f4e249c8615b2fc78811147f058c94cfeced5bba13b06d07b96ef
+Description:  shadowsocksr-libev ssr-redir
+
+Package: shadowsocksr-libev-ssr-server
+Version: 2.5.6-9
+Depends: libc, libev, libsodium, libopenssl1.1, libpthread, libpcre, libudns, zlib
+Source: feeds/small/shadowsocksr-libev
+SourceName: shadowsocksr-libev-ssr-server
+License: GPL-3.0
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1628756667
+Architecture: x86_64
+Installed-Size: 65303
+Filename: shadowsocksr-libev-ssr-server_2.5.6-9_x86_64.ipk
+Size: 66162
+SHA256sum: f8d5c737f7150a84d09b9025894b52bdd6fa7bae0adb667fc9930b265033bb78
+Description:  shadowsocksr-libev ssr-server
+
+Package: smartdns-le
+Version: 2021.07.30-2
+Depends: libc, libpthread, libopenssl1.1
+Source: feeds/small/smartdns-le
+SourceName: smartdns-le
+License: GPL-3.0-or-later
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1629463753
+Maintainer: Nick Peng <pymumu@gmail.com>
+Architecture: x86_64
+Installed-Size: 80957
+Filename: smartdns-le_2021.07.30-2_x86_64.ipk
+Size: 81957
+SHA256sum: c0629f6795a0e2d6faf6a3fcc177d9016219c89d2a123368edd98e44810c6a39
+Description:  SmartDNS is a local DNS server which accepts DNS query requests from local network clients,
+ gets DNS query results from multiple upstream DNS servers concurrently, and returns the fastest IP to clients.
+ Unlike dnsmasq's all-servers, smartdns returns the fastest IP. 
+
+Package: trojan-go
+Version: 0.10.6-2
+Depends: libc
+Source: feeds/small/trojan-go
+SourceName: trojan-go
+Section: net
+SourceDateEpoch: 1633152590
+Architecture: x86_64
+Installed-Size: 3781001
+Filename: trojan-go_0.10.6-2_x86_64.ipk
+Size: 3782449
+SHA256sum: c1275e102a21d556298d33e9d76430ad3d7914369a67fa025051a0603d01b9b5
+Description:  An unidentifiable mechanism that helps you bypass GFW. It's compatible with original trojan with experimental features.
+
+Package: trojan-plus
+Version: 10.0.3-2
+Depends: libc, libpthread, libstdcpp6, libopenssl1.1, boost, boost-system, boost-program_options
+Source: feeds/small/trojan-plus
+SourceName: trojan-plus
+License: GPL-3.0
+Section: net
+SourceDateEpoch: 1628756667
+Maintainer: Trojan-Plus-Group
+Architecture: x86_64
+Installed-Size: 392522
+Filename: trojan-plus_10.0.3-2_x86_64.ipk
+Size: 393365
+SHA256sum: 9b0f89ae875e100ed646a0e6944d397a03d1c67479ea3da0204caf3b01fbbe20
+Description:  An unidentifiable mechanism that helps you bypass GFW. It's compatible with original trojan with experimental features.
+
+Package: v2ray-core
+Version: 4.43.0-3
+Depends: libc, ca-bundle
+Source: feeds/small/v2ray-core
+SourceName: v2ray-core
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1633289987
+Maintainer: Tianling Shen <cnsztl@immortalwrt.org>
+Architecture: x86_64
+Installed-Size: 4872694
+Filename: v2ray-core_4.43.0-3_x86_64.ipk
+Size: 4874367
+SHA256sum: 89a745c81d208c3a239620b9e9a8ed4e947193c0813a37d0b4812dca9725c60b
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+
+Package: v2ray-plugin
+Version: 4.42.2-5
+Depends: libc, ca-bundle
+Source: feeds/small/v2ray-plugin
+SourceName: v2ray-plugin
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1633152590
+Maintainer: madeye <max.c.lv@gmail.com>
+Architecture: x86_64
+Installed-Size: 3488459
+Filename: v2ray-plugin_4.42.2-5_x86_64.ipk
+Size: 3489897
+SHA256sum: 9c5c8c65868dba42c731932904d5e0417a37d05dc6f83a4c3639d1cde36f9c3e
+Description:  Yet another SIP003 plugin for shadowsocks, based on v2ray
+
+Package: xray-core
+Version: 1.4.5-5
+Depends: libc, ca-bundle
+Source: feeds/small/xray-core
+SourceName: xray-core
+License: MPL-2.0
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1633152590
+Maintainer: Tianling Shen <cnsztl@immortalwrt.org>
+Architecture: x86_64
+Installed-Size: 4883415
+Filename: xray-core_1.4.5-5_x86_64.ipk
+Size: 4885192
+SHA256sum: 3db166979d6738faea6b68467e92d0b1f20f5db7f7faa272eb0b063d6ac0f61f
+Description:  Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
+ It secures your network connections and thus protects your privacy.
+
+Package: xray-plugin
+Version: 1.4.5-3
+Depends: libc, ca-bundle
+Source: feeds/small/xray-plugin
+SourceName: xray-plugin
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1633152590
+Maintainer: Tianling Shen <cnsztl@project-openwrt.eu.org>
+Architecture: x86_64
+Installed-Size: 3804245
+Filename: xray-plugin_1.4.5-3_x86_64.ipk
+Size: 3805742
+SHA256sum: 3129f7b2d7d884a425699197b8928f2e2dad11cbde14b497b5884e5e45bd5d14
+Description:  Yet another SIP003 plugin for Shadowsocks, based on Xray.
+
